@@ -2,8 +2,7 @@
 
 Health monitoring is the major problem in today’s world. Due to lack of proper health monitoring
 and checkups, patients suffer from serious health issues. There are lots of devices nowadays to
-monitor the health of patients over the internet. Health experts are also taking advantage of these
-
+monitor the health of patients over the internet. Health experts are also taking advantage of these 
 smart devices to keep a record on their patients. With tons of new healthcare technology start-
 ups, IoT is rapidly revolutionizing the healthcare industry.
 
