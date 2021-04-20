@@ -11,7 +11,7 @@ record the patient heart beat rate and body temperature time to time and send an
 when those readings go beyond critical values. Pulse rate and body temperature readings are recorded
 over the cloud platforms of Thing Speak and Google sheets so that patient health can be monitored
 from anywhere over the internet. A panic button is also be attached so that patients or nurses can
-press it during an emergency situation to send email/SMS to the doctors, management and relatives.
+press it during an emergency situation to send email/SMS to the doctors, management and relatives.<br>
 System Requirements:
 
 1. Arduino Uno and Programming Cable
